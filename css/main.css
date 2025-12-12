@@ -22,6 +22,7 @@ body {
   display: flex;
   flex-direction: column;
   background: #121212;
+  flex-shrink: 0;
   color: #fff;
 }
 
